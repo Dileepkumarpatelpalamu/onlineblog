@@ -77,7 +77,7 @@ requests-toolbelt==0.9.1
 Send2Trash==1.7.1
 six==1.16.0
 soupsieve==2.2.1
-sqlparse==0.4.1
+sqlparse==0.4.2
 terminado==0.9.5
 testpath==0.5.0
 tornado==6.1
